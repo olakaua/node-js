@@ -9,5 +9,6 @@ async function getNameAgents()  {
   const agent = agents.data.data.map(item => item.displayName)
   console.log(agent)
   return agents;
-  
 }
+
+getNameAgents()

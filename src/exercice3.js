@@ -17,4 +17,4 @@ async function getInfoAgents(habilit)  {
   return agents;
 }
 
-getInfoAgents("Boom Bot");
+getInfoAgents("Paint Shells");

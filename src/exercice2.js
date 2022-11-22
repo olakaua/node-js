@@ -12,4 +12,4 @@ async function getNameAgents(name)  {
   
 }
 
-getNameAgents("Fade");
+getNameAgents("Sova");
